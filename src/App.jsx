@@ -34,6 +34,7 @@ const App = () => {
 
   return (
     <div className="min-h-screen bg-gray-200 flex flex-col items-center justify-center p-8 relative">
+      <title>Reminder~</title>
       {/* Floating Emojis */}
       <div className="absolute top-10 left-20 animate-float">
         <FaLaugh className="text-yellow-400 text-4xl" />
