@@ -1,3 +1,6 @@
 # Why i created this repository?
 - For Fun
-- The girl i'm hitting on is not replying to my messages   
+- I'm bored 
+- The girl i'm hitting on is not replying to my messages and now i'm inting 
+
+
