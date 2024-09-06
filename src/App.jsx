@@ -42,9 +42,7 @@ const App = () => {
       <div className="absolute top-20 right-16 animate-float2">
         <FaSmileWink className="text-blue-400 text-4xl" />
       </div>
-      <div className="absolute bottom-16 left-32 animate-float3">
-        <FaThumbsUp className="text-pink-400 text-4xl" />
-      </div>
+      
 
       {/* Title with Animation */}
       <h1 className="text-3xl font-bold mb-4 animate-pulse text-blue-500">Friendly REMINDER</h1>
