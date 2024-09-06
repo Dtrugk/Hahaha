@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import screenshot from ".\\Pic3.png"; // Import your conversation image
+// import screenshot from ".\\Pic3.png"; // Import your conversation image
 import { FaLaugh, FaSmileWink, FaThumbsUp } from 'react-icons/fa'; // Import emoji icons from react-icons
 
 const App = () => {
@@ -51,7 +51,7 @@ const App = () => {
 
       {/* Image Block */}
       <div className="w-full max-w-4xl bg-black rounded-xl overflow-hidden mb-4">
-        <img src={screenshot} alt="Conversation" className="w-full h-auto object-contain" />
+        <img src="/Pic3.png" alt="Conversation" className="w-full h-auto object-contain" />
       </div>
 
       {/* Dynamic Text Section */}
