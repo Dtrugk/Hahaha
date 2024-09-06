@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-// import screenshot from ".\\Pic3.png"; // Import your conversation image
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { FaLaugh, FaSmileWink, FaThumbsUp } from 'react-icons/fa'; // Import emoji icons from react-icons
 
 const App = () => {
