@@ -38,9 +38,9 @@ const App = () => {
        <div className="absolute top-10 left-20 animate-float">
          <FaLaugh className="text-yellow-400 text-4xl" />
        </div>
-       <div className="absolute top-20 right-16 animate-float2">
+       {/* <div className="absolute top-20 right-16 animate-float2">
          <FaSmileWink className="text-blue-400 text-4xl" />
-       </div>
+       </div> */}
       
 
        {/* Title with Animation */}
